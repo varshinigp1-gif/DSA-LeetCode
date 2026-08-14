@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 ## Two Pointers
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -71,4 +73,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
