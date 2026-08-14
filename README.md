@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0013-roman-to-integer) |
 | [0509-fibonacci-number](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 ## Two Pointers
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
