@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0263-ugly-number) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0283-move-zeroes) |
 ## String
 |  |
