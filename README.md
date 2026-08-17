@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0013-roman-to-integer) |
+| [0264-ugly-number-ii](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0342-power-of-four) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0264-ugly-number-ii) |
 | [0509-fibonacci-number](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -90,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0268-missing-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
