@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0013-roman-to-integer) |
 | [0264-ugly-number-ii](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Newton's Method
 |  |
 | ------- |
@@ -95,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
