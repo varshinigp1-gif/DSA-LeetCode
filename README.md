@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0342-power-of-four) |
+| [0492-construct-the-rectangle](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 ## Two Pointers
