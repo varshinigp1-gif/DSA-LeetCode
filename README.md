@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
