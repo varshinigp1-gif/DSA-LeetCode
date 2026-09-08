@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
+| [3870-count-commas-in-range](https://github.com/varshinigp1-gif/DSA-LeetCode/tree/master/3870-count-commas-in-range) |
 ## Two Pointers
 |  |
 | ------- |
